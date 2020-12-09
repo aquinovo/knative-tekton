@@ -11,3 +11,5 @@ spec:
           env:
             - name: TARGET
               value: Welcome to the Cloud-Native Summit today
+      imagePullSecrets:
+        - name: regcred

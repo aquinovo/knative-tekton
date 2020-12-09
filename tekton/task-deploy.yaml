@@ -14,10 +14,10 @@ spec:
       default: .
     - name: yaml
       description: Path to the directory to use as context.
-      default: ""
+      default: ''
     - name: image
       description: Path to the container image
-      default: ""
+      default: ''
     - name: KUBECTL_IMAGE
       description: The location of the kubectl image.
       default: docker.io/csantanapr/kubectl
