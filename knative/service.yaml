@@ -10,4 +10,4 @@ spec:
           imagePullPolicy: Always
           env:
             - name: TARGET
-              value: My First Serveless App by december 2020 🎉 🌮 🔥 🤗!
+              value: Test tekton with knative 🎉 🌮 🔥 🤗!
