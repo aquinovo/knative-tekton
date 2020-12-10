@@ -28,7 +28,7 @@ spec:
       default: 'false'
     - name: FORMAT
       description: The format of the built container, oci or docker
-      default: 'oci'
+      default: 'docker'
   results:
     - name: image
       description: The image url built and pushed
