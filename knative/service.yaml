@@ -10,4 +10,4 @@ spec:
           imagePullPolicy: Always
           env:
             - name: TARGET
-              value: Test tekton with knative test2 🎉 🌮 🔥 🤗!
+              value: Test tekton with knative 🎉 🌮 🔥 🤗!
