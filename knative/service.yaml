@@ -10,4 +10,4 @@ spec:
           imagePullPolicy: Always
           env:
             - name: TARGET
-              value: Change message test 2!
+              value: Change message test 3!
