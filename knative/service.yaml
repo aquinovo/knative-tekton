@@ -12,4 +12,4 @@ spec:
             - name: TARGET
               value: Try node selector !!!
       nodeSelector:
-        labelName: nemo
+        serverless: nemo
