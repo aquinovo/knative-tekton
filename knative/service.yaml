@@ -10,4 +10,6 @@ spec:
           imagePullPolicy: Always
           env:
             - name: TARGET
-              value: Change message test 3!
+              value: Try node selector !!!
+      nodeSelector:
+        labelName: nemo
