@@ -10,6 +10,6 @@ spec:
           imagePullPolicy: Always
           env:
             - name: TARGET
-              value: Try node selector !!!
+              value: Try serverless node selector !!!
       nodeSelector:
         serverless: nemo
